@@ -37,10 +37,12 @@ The model achieved:
 - Test Accuracy: 72.67%.
 While the model performed reasonably well, it did not reach the ideal target accuracy of 75%.
 
-Optimization Steps:
 Data Preprocessing Adjustments:
-Rare categories in APPLICATION_TYPE and CLASSIFICATION were grouped into "Other" to reduce dimensionality.
+- Rare categories in APPLICATION_TYPE and CLASSIFICATION were grouped into "Other" to reduce dimensionality.
 Model Design Adjustments:
-Tried increasing the number of neurons in the hidden layers and tested different layer architectures.
+- Tried increasing the number of neurons in the hidden layers and tested different layer architectures.
 Training Adjustments:
-Ran the model for 100 epochs with a batch size of 32, using 20% of the data as a validation set.
+- Run the model for 100 epochs with a batch size of 32, using 20% of the data as a validation set.
+
+Summary: 
+- The deep learning model successfully classified organizations with a reasonable level of accuracy (72.67%) but fell slightly short of the desired 75% accuracy threshold. This suggests that while the model is functional, additional improvements are necessary for better performance.
