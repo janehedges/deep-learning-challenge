@@ -1,4 +1,4 @@
-#Deep Learning Challenge
+Deep Learning Challenge
 
 Overview of the Analysis:
 The purpose of this was to create a deep learning model that is able to predict the success of organizations applying for funding through Alphabet Soup. This involved processing data to eliminate irrelevant features, scaling numerical data, encoding categorical data, and desiging and training a neaural network to classify organizations as successful or unsuccessful based on various features.
