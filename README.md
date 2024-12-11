@@ -36,6 +36,7 @@ The model achieved:
 - Validation Accuracy: Approximately 73.9%.
 - Test Accuracy: 72.67%.
 While the model performed reasonably well, it did not reach the ideal target accuracy of 75%.
+
 Optimization Steps:
 Data Preprocessing Adjustments:
 Rare categories in APPLICATION_TYPE and CLASSIFICATION were grouped into "Other" to reduce dimensionality.
